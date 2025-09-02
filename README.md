@@ -30,8 +30,16 @@ All the codes are tested in the following environment:
 
 ### 2. Preparation
 The data are shared by [Google Drive](https://drive.google.com/file/d/166N0qA8qGMSUby7EAqajfrlZeXoMrypf/view?usp=drive_link). You need to download it and place the *data* folder in the root directory of this project. 
+```
+https://drive.google.com/file/d/1nfmIO8ZNNh730RUaqTzyB8Qh8oJZVp27/view?usp=drive_link
+```
 
 The model are shared by [Google Drive](https://drive.google.com/file/d/1EwAvmoieebM5yrBKuOlutRZDw3LHhq7x/view?usp=drive_link). You need to download it and place the *detlib* folder in the root directory of this project. 
+
+```
+[https://drive.google.com/file/d/1nfmIO8ZNNh730RUaqTzyB8Qh8oJZVp27/view?usp=drive_link](https://drive.google.com/file/d/12LHfxYsWwepFuApFA56OygWpfI-cxv0m/view?usp=drive_link)
+```
+
 
 If you are going to use yolov3, you need to download its weights by running
 ```
