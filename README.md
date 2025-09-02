@@ -63,42 +63,25 @@ python train.py --nepoch 800 --save_path 'results/ddetr' --arch "deformable-detr
 
 ## Patches that can be used for comparative testing
 
-<!-- 父容器：使用flex布局让子元素并列 -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+### AdvReal (YOLO-v2)
 
-  <!-- 第一张图及标题 -->
-  <div style="text-align: center; flex: 1; min-width: 250px;">
-    <h3>AdvReal (YOLO-v2)</h3>
-    <img src="Images/AdvReal_YOLOv2.png" width="300" alt="AdvReal YOLO-v2">
-  </div>
+<img src="Images/AdvReal_YOLOv2.png" width="300" alt="Cover Page">
 
-  <!-- 第二张图及标题 -->
-  <div style="text-align: center; flex: 1; min-width: 250px;">
-    <h3>AdvReal (YOLO-v3)</h3>
-    <img src="Images/AdvReal_YOLOv3.png" width="300" alt="AdvReal YOLO-v3">
-  </div>
+### AdvReal (YOLO-v3)
 
-  <!-- 第三张图及标题 -->
-  <div style="text-align: center; flex: 1; min-width: 250px;">
-    <h3>AdvReal (YOLO-v5)</h3>
-    <img src="Images/AdvReal_YOLOv5.png" width="300" alt="AdvReal YOLO-v5">
-  </div>
+<img src="Images/AdvReal_YOLOv3.png" width="300" alt="Cover Page">
 
-  <!-- 第四张图及标题 -->
-  <div style="text-align: center; flex: 1; min-width: 250px;">
-    <h3>AdvReal (Faster-RCNN)</h3>
-    <img src="Images/AdvReal_Faster-RCNN.png" width="300" alt="AdvReal Faster-RCNN">
-  </div>
+### AdvReal (YOLO-v5)
 
-  <!-- 第五张图及标题 -->
-  <div style="text-align: center; flex: 1; min-width: 250px;">
-    <h3>AdvReal (D-DETR)</h3>
-    <img src="Images/AdvReal_DDETR.png" width="300" alt="AdvReal D-DETR">
-  </div>
+<img src="Images/AdvReal_YOLOv5.png" width="300" alt="Cover Page">
 
-</div>
+### AdvReal (Faster-RCNN)
 
+<img src="Images/AdvReal_Faster-RCNN.png" width="300" alt="Cover Page">
 
+### AdvReal (D-DETR)
+
+<img src="Images/AdvReal_DDETR.png" width="300" alt="Cover Page">
 
 
 ## Acknowledge
