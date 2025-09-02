@@ -2,6 +2,7 @@
 ## AdvReal: AdvReal: Physical adversarial patch generation framework for security evaluation of object detection systems
 
 This is the official repository for the paper:
+
 [AdvReal: Physical adversarial patch generation framework for security evaluation of object detection systems](https://doi.org/10.1016/j.eswa.2025.128967).
 
 ## Abstract
@@ -56,6 +57,24 @@ python train.py --nepoch 800 --save_path 'results/rcnn' --arch "rcnn" --cfg conf
 ```
 python train.py --nepoch 800 --save_path 'results/ddetr' --arch "deformable-detr" --cfg configs/baseline/ddetr.yaml --seed_type fixed --loss_type max_iou
 ```
+
+## Patches that can be used for comparative testing
+
+### AdvReal (Yolo-v2)
+
+
+### AdvReal (Yolo-v3)
+
+
+### AdvReal (Yolo-v5)
+
+
+### AdvReal (Faster-RCNN)
+
+
+### AdvReal (D-DETR)
+
+
 
 ## Acknowledge
 Our code is built based on [T-SEA](https://github.com/VDIGPKU/T-SEA) and [Adv-CaT](https://github.com/WhoTHU/Adversarial_camou).
