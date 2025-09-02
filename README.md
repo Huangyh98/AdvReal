@@ -63,20 +63,25 @@ python train.py --nepoch 800 --save_path 'results/ddetr' --arch "deformable-detr
 
 ## Patches that can be used for comparative testing
 
-### AdvReal (Yolo-v2)
+### AdvReal (YOLO-v2)
 
+<img src="Images/AdvReal_YOLOv2.png" width="300" alt="Cover Page">
 
-### AdvReal (Yolo-v3)
+### AdvReal (YOLO-v3)
 
+<img src="Images/AdvReal_YOLOv3.png" width="300" alt="Cover Page">
 
-### AdvReal (Yolo-v5)
+### AdvReal (YOLO-v5)
 
+<img src="Images/AdvReal_YOLOv5.png" width="300" alt="Cover Page">
 
 ### AdvReal (Faster-RCNN)
 
+<img src="Images/AdvReal_Faster-RCNN.png" width="300" alt="Cover Page">
 
 ### AdvReal (D-DETR)
 
+<img src="Images/AdvReal_DDETR.png" width="300" alt="Cover Page">
 
 
 ## Acknowledge
