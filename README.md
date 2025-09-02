@@ -40,6 +40,11 @@ The model are shared by [Google Drive](https://drive.google.com/file/d/1EwAvmoie
 [https://drive.google.com/file/d/1nfmIO8ZNNh730RUaqTzyB8Qh8oJZVp27/view?usp=drive_link](https://drive.google.com/file/d/12LHfxYsWwepFuApFA56OygWpfI-cxv0m/view?usp=drive_link)
 ```
 
+Download the YOLOv2 weight file, and place it in /yolov2/
+
+```
+[[https://drive.google.com/file/d/1nfmIO8ZNNh730RUaqTzyB8Qh8oJZVp27/view?usp=drive_link](https://drive.google.com/file/d/12LHfxYsWwepFuApFA56OygWpfI-cxv0m/view?usp=drive_link)](https://drive.google.com/file/d/1t4Sd-Jmy2WFlqNJhbouU0_a4KZFTN0Wn/view?usp=drive_link)
+```
 
 If you are going to use yolov3, you need to download its weights by running
 ```
