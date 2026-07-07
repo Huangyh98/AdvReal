@@ -166,13 +166,9 @@ This evaluates the adversarial patch against both COCO-80 (YOLO models) and COCO
 
 We provide adversarial patches trained on 5 different detectors for direct evaluation:
 
-<p align="center">
-  <img src="Images/AdvReal_YOLOv2.png" width="150" alt="YOLOv2" /> &nbsp;&nbsp;
-  <img src="Images/AdvReal_YOLOv3.png" width="150" alt="YOLOv3" /> &nbsp;&nbsp;
-  <img src="Images/AdvReal_YOLOv5.png" width="150" alt="YOLOv5" /> &nbsp;&nbsp;
-  <img src="Images/AdvReal_Faster-RCNN.png" width="150" alt="Faster-RCNN" /> &nbsp;&nbsp;
-  <img src="Images/AdvReal_DDETR.png" width="150" alt="D-DETR" />
-</p>
+| YOLOv2 | YOLOv3 | YOLOv5 | Faster-RCNN | D-DETR |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="Images/AdvReal_YOLOv2.png" width="120" alt="YOLOv2" /> | <img src="Images/AdvReal_YOLOv3.png" width="120" alt="YOLOv3" /> | <img src="Images/AdvReal_YOLOv5.png" width="120" alt="YOLOv5" /> | <img src="Images/AdvReal_Faster-RCNN.png" width="120" alt="Faster-RCNN" /> | <img src="Images/AdvReal_DDETR.png" width="120" alt="D-DETR" /> |
 
 </details>
 
