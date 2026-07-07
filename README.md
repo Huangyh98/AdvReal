@@ -61,21 +61,6 @@ AdvReal operates through a carefully designed pipeline:
   </table>
 </div>
 
-### Attack on Different Detectors
-
-| | YOLOv5 | Faster-RCNN | D-DETR |
-|:---:|:---:|:---:|:---:|
-| **Adversarial Patch** | <img src="Images/AdvReal_YOLOv5.png" width="160" /> | <img src="Images/AdvReal_Faster-RCNN.png" width="160" /> | <img src="Images/AdvReal_DDETR.png" width="160" /> |
-
-### Detected → Undetected
-
-<p align="center">
-  <img src="Images/AdvReal_YOLOv2.png" width="24%" /> &nbsp;
-  <img src="Images/AdvReal_YOLOv3.png" width="24%" /> &nbsp;
-  <img src="Images/AdvReal_YOLOv5.png" width="24%" /> &nbsp;
-  <img src="Images/AdvReal_Faster-RCNN.png" width="24%" />
-</p>
-
 ### 🎯 Full Detector Coverage
 
 | Type | Detectors | Training | Evaluation |
@@ -173,6 +158,21 @@ bash scripts/eval.sh <cuda_id>
 ```
 
 This evaluates the adversarial patch against both COCO-80 (YOLO models) and COCO-91 (torchvision models).
+
+</details>
+
+<details>
+<summary>🎯 Pretrained Adversarial Patches for Evaluation</summary>
+
+We provide adversarial patches trained on 5 different detectors for direct evaluation:
+
+<p align="center">
+  <img src="Images/AdvReal_YOLOv2.png" width="150" alt="YOLOv2" /> &nbsp;&nbsp;
+  <img src="Images/AdvReal_YOLOv3.png" width="150" alt="YOLOv3" /> &nbsp;&nbsp;
+  <img src="Images/AdvReal_YOLOv5.png" width="150" alt="YOLOv5" /> &nbsp;&nbsp;
+  <img src="Images/AdvReal_Faster-RCNN.png" width="150" alt="Faster-RCNN" /> &nbsp;&nbsp;
+  <img src="Images/AdvReal_DDETR.png" width="150" alt="D-DETR" />
+</p>
 
 </details>
 
